@@ -1,5 +1,5 @@
 ---
-title: Title, shorten if necessary, will be on sidebar
+title: Titl, shorten if necessary, will be on sidebar
 description: A one sentence description.
 sidebar_position: 5
 keywords:
